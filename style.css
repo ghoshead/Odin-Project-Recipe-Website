@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+    background-color: bisque;
+    color: black;
+}
+
+
+.mainhead,
+.subhead {
+    color: antiquewhite;
+    background-color: black;
+    font-weight: bold;
+    
+}
+
+.mainhead {
+    text-align: center;
+}
+
+
+
+.image {
+    width: 500px;
+    height: auto;
+}
